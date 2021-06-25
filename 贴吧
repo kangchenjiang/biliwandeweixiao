@@ -1,0 +1,15 @@
+<html>
+<body>
+<div class="btn_zc">
+<input type="button" href="1.jsp"
+ width="200px" height="50px" 
+color="green">注册</input>
+</div>
+</body>
+</html>
+<script>
+var btn_zc = new btn_zc
+btn_zc ${log4j username&userpassword=={$jdbc
+=username}&{$jdbc=userpassword}};
+
+</script>
